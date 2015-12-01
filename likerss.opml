@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>likerss</title>
+		<dateModified>Tue, 01 Dec 2015 18:59:36 GMT</dateModified>
+		<expansionState>1,2,7</expansionState>
+		<lastCursor>17</lastCursor>
+		</head>
+	<body>
+		<outline text="What is like RSS?">
+			<outline text="About" created="Tue, 01 Dec 2015 18:24:16 GMT">
+				<outline text="Dave Winer's &lt;a href=&quot;http://threads2.scripting.com/2012/december/whatsLikeRss&quot;&gt;original piece.&lt;/a&gt;" created="Tue, 01 Dec 2015 18:24:29 GMT"/>
+				<outline text="To defend the &quot;web we have lost&quot; we must defend its infrastructure : open and unchanging protocols that have no definitive owner but many active stakeholders and users." created="Tue, 01 Dec 2015 18:27:02 GMT"/>
+				<outline text="This is an outline / catalogue about them." created="Tue, 01 Dec 2015 18:52:05 GMT"/>
+				<outline text="With links to useful overviews, definitions, projects, essays and conversations." created="Tue, 01 Dec 2015 18:52:15 GMT"/>
+				</outline>
+			<outline text="Catalogue" created="Tue, 01 Dec 2015 18:24:35 GMT">
+				<outline text="Diff / Patch formats in Unix" created="Tue, 01 Dec 2015 18:26:17 GMT">
+					<outline text="Tutorial : &lt;a href=&quot;https://linuxacademy.com/blog/linux/introduction-using-diff-and-patch/&quot;&gt;Using diff and patch&lt;/a&gt;" created="Tue, 01 Dec 2015 18:30:05 GMT"/>
+					</outline>
+				<outline text="Email" created="Tue, 01 Dec 2015 18:26:53 GMT">
+					<outline text="Wikipedia : &lt;a href=&quot;https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol&quot;&gt;SMTP, &lt;/a&gt;" created="Tue, 01 Dec 2015 18:31:23 GMT"/>
+					</outline>
+				<outline text="Finger" created="Tue, 01 Dec 2015 18:26:41 GMT">
+					<outline text="Wikipedia : &lt;a href=&quot;https://en.wikipedia.org/wiki/Finger_protocol&quot;&gt;Finger Protocol&lt;/a&gt;" created="Tue, 01 Dec 2015 18:33:04 GMT"/>
+					<outline text="Original &lt;a href=&quot;http://gizmodo.com/5869385/the-simple-unix-command-that-gave-birth-to-social-networking&quot;&gt;social network&lt;/a&gt;" created="Tue, 01 Dec 2015 18:33:26 GMT"/>
+					<outline text="Contrast : &lt;a href=&quot;http://twitter.pbworks.com/w/page/1779741/Bots&quot;&gt;Twitter as command line&lt;/a&gt;" created="Tue, 01 Dec 2015 18:35:58 GMT"/>
+					</outline>
+				<outline text="Git" created="Tue, 01 Dec 2015 18:26:54 GMT">
+					<outline text="&lt;a href=&quot;https://git-scm.com/&quot;&gt;Site&lt;/a&gt;" created="Tue, 01 Dec 2015 18:29:08 GMT"/>
+					</outline>
+				<outline text="IRC" created="Tue, 01 Dec 2015 18:43:52 GMT">
+					<outline text="Wikipedia &lt;a href=&quot;https://en.wikipedia.org/wiki/Internet_Relay_Chat&quot;&gt;article&lt;/a&gt;" created="Tue, 01 Dec 2015 18:47:34 GMT"/>
+					</outline>
+				<outline text="JSON">
+					<outline text="Site : &lt;a href=&quot;http://www.json.org/&quot;&gt;http://www.json.org/&lt;/a&gt;" created="Tue, 01 Dec 2015 18:48:17 GMT"/>
+					</outline>
+				<outline text="Markdown">
+					<outline text="&lt;a href=&quot;https://daringfireball.net/projects/markdown/syntax&quot;&gt;Docs&lt;/a&gt;" created="Tue, 01 Dec 2015 18:48:51 GMT"/>
+					</outline>
+				<outline text="OPML">
+					<outline text="&lt;a href=&quot;http://dev.opml.org/spec2.html&quot;&gt;Spec&lt;/a&gt;" created="Tue, 01 Dec 2015 18:49:56 GMT"/>
+					</outline>
+				<outline text="PNG">
+					<outline text="Wikipedia&lt;a href=&quot;https://en.wikipedia.org/wiki/Portable_Network_Graphics&quot;&gt; page&lt;/a&gt;" created="Tue, 01 Dec 2015 18:50:40 GMT"/>
+					</outline>
+				<outline text="RSS"/>
+				<outline text="rsync" created="Tue, 01 Dec 2015 18:26:35 GMT">
+					<outline text="Wikipedia &lt;a href=&quot;https://en.wikipedia.org/wiki/Rsync&quot;&gt;page&lt;/a&gt;" created="Tue, 01 Dec 2015 18:51:09 GMT"/>
+					</outline>
+				<outline text="SSH" created="Tue, 01 Dec 2015 18:26:12 GMT">
+					<outline text="Wikipedia &lt;a href=&quot;https://en.wikipedia.org/wiki/Secure_Shell&quot;&gt;page&lt;/a&gt;" created="Tue, 01 Dec 2015 18:51:44 GMT"/>
+					</outline>
+				<outline text="UseNet" created="Tue, 01 Dec 2015 18:54:21 GMT">
+					<outline text="&lt;a href=&quot;http://www.usenet.org/&quot;&gt;About&lt;/a&gt;" created="Tue, 01 Dec 2015 18:54:23 GMT"/>
+					<outline text="These days it seems that UseNet is a river of pirate software and movies etc. But as a protocol it has a role similar to many other many-to-many news rivers today." created="Tue, 01 Dec 2015 18:54:33 GMT"/>
+					</outline>
+				</outline>
+			</outline>
+		</body>
+	</opml>
